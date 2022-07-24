@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79e9000f-c2ce-4e9f-8485-691643282db2" name="Changes" comment="application.yaml init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/spring/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/spring/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/spring/entity/UserEntity.java" afterDir="false" />
+    <list default="true" id="79e9000f-c2ce-4e9f-8485-691643282db2" name="Changes" comment="Create UserEntity">
+      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/spring/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uli/nick/spring/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uli/nick/spring/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -87,7 +87,28 @@
       <option name="project" value="LOCAL" />
       <updated>1658644399324</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Application init entrypoint">
+      <created>1658659656623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658659656623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create UserController">
+      <created>1658659919051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658659919051</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Create UserEntity">
+      <created>1658659940985</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658659940985</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +125,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Maven init" />
     <MESSAGE value="application.yaml init" />
-    <option name="LAST_COMMIT_MESSAGE" value="application.yaml init" />
+    <MESSAGE value="Application init entrypoint" />
+    <MESSAGE value="Create UserController" />
+    <MESSAGE value="Create UserEntity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create UserEntity" />
   </component>
 </project>
